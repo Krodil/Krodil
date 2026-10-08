@@ -9,10 +9,9 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=wMvf6B8AAAAJ&hl=da)
 
 ## Research Interests
-- Human-Computer Interaction
-- AI & LLMs
-- Co-design
-With a focus on doing techy stuff with communities 
+- Human-Computer Interaction, currently engaged with  🤖 AI 🥽 VR 🌱💧 Hydroponics
+- Co-design is my methodology of choice allowing me to infuse perspectives into design and innovation 🤝
+- With a focus on doing techy stuff with communities in Africa🌍 or developing new collaborative Ai tools for education🧠
 ## Current Git Projects
 - 🦙 Local LLMs with Ollama
 - 🎨 Pixel Art Experiments
